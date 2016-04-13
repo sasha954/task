@@ -16,7 +16,7 @@
           "reference" : "master"
         },
         "autoload" : {
-          "classmap" : ["index.php"]
+          "files" : ["index.php"]
         }
       }
     }
