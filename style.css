@@ -1,0 +1,25 @@
+*{
+	margin: 0;
+	padding: 0;
+	background: #FFE4B5;
+}
+body{
+	margin: 0 auto;
+	height: 1000px;
+	width: 900px;
+}
+#square{
+	background: #000;
+	margin: 3% auto;
+	height: 300px;
+	width: 300px;
+}
+.click{
+	width: 160px;
+	height: 95px;
+	margin: 2px auto;
+}
+img{
+	
+	margin: -61px 45%  -2%;
+}
